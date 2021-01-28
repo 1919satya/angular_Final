@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "firstname": "raju",
+      "lastname": "lingam",
+      "emailid": "raju@gmail.com",
+      "mobileno": "965556655",
+      "gender": "Male",
+      "password": "user",
+      "address": {
+        "street": "valluru",
+        "city": "valluru2",
+        "state": "andhra",
+        "pincode": "534214"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 1,
+      "account": {
+        "AccNo": 2553,
+        "AccType": "savings",
+        "balance": 54400
+      }
+    },
+    {
+      "firstname": "lakshmi",
+      "lastname": "pattam",
+      "emailid": "lucky@gmail.com",
+      "mobileno": "9491011424",
+      "gender": "FeMale",
+      "password": "lucky",
+      "address": {
+        "street": "palakollu",
+        "city": "palakollu",
+        "state": "andhra",
+        "pincode": "534218"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 2,
+      "account": {
+        "AccNo": 2554,
+        "AccType": "savings",
+        "balance": 37600
+      }
+    },
+    {
+      "firstname": "satya",
+      "lastname": "sai",
+      "emailid": "satya@gmail.com",
+      "mobileno": "9491011427",
+      "gender": "Male",
+      "password": "satya",
+      "address": {
+        "street": "sairampeta",
+        "city": "valluru",
+        "state": "andhra",
+        "pincode": "534269"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 3,
+      "account": {
+        "AccNo": 2555,
+        "AccType": "savings",
+        "balance": 58200
+      }
+    },
+    {
+      "firstname": "sai",
+      "lastname": "krishna",
+      "emailid": "sai@gmail.com",
+      "mobileno": "9491011426",
+      "gender": "Male",
+      "password": "satya",
+      "address": {
+        "street": "4-85/1A,valluru",
+        "city": "Valluru",
+        "state": "A.P",
+        "pincode": "534269"
+      },
+      "accstatus": "inactive",
+      "role": "USER",
+      "id": 4
+    },
+    {
+      "firstname": "Satya",
+      "lastname": "sai",
+      "emailid": "pulletikurthi.sai@hcl.com",
+      "mobileno": "09491011427",
+      "gender": "Male",
+      "password": "satya1919",
+      "address": {
+        "street": "4-85/1A,valluru",
+        "city": "Valluru",
+        "state": "India",
+        "pincode": "534269"
+      },
+      "accstatus": "inactive",
+      "role": "USER",
+      "id": 5
+    },
+    {
+      "firstname": "ramakrishna",
+      "lastname": "P",
+      "emailid": "krishna@gmail.com",
+      "mobileno": "9191929193",
+      "gender": "Male",
+      "password": "krishna",
+      "address": {
+        "street": "D.no:4-85/1A,valluru,",
+        "city": "Valluru",
+        "state": "Andhra Pradesh",
+        "pincode": "534269"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 6
+    }
+  ]
+}
